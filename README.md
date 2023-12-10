@@ -12,9 +12,9 @@ Until one day, I was asked to look into a file with a thousand lines of Python c
 
 Decades of coding in different programming languages do not necessarily mean I could be as fluent in a new (for me) programming language.
 
-My team is not a Python shop - far from it - but that is what a colleague chose to use right before he left. Python was not a wrong choice for the problem at hand, and I also felt it was a professional blindspot not to be fluent in such a popular programming language.
+My team is not a Python shop - far from it - but that is what a colleague chose to use right before he left. Python was not the wrong choice for the problem, and I also felt it was a professional blindspot for me not to be fluent in such a popular programming language.
 
-It took me about two weeks to complete the Python badge. While decades of programming experience do not give you immediate fluency in all programming languages, it still allows acquiring fluency rather quickly.
+It took me about two weeks to complete the Python badge. While decades of programming experience do not give you immediate fluency in all programming languages, it still allows you to acquire fluency quickly.
 
 With the Python badge in hand, I noticed a particular "rust" in tackling the math/puzzle problems I used to love decades ago, so I also started solving those challenges.
 
@@ -33,4 +33,4 @@ Each problem is assigned to a folder in this repository containing the following
 
 1. A README.md file containing a link to the original problem and my thought process on solving the problem.
 2. A source code file with the problem resolution after clearing all test cases available when submitting the problem.
-3. A testcase or two where the submission of a solution failed, and the testcase was too complex to debug on the HackerRank website.
+3. A test case or two where the solution submission failed and the test case was too complex to debug on the HackerRank website.

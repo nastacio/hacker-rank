@@ -9,7 +9,7 @@
       "type": "python",
       "request": "launch",
       "program": "${file}",
-      "args": ["/Users/nastacio/github.com/nastacio/hacker-rank/almost-sorted/input04.txt"],
+      "args": ["/Users/nastacio/github.com/nastacio/hacker-rank/dna-health/input.txt"],
       "console": "integratedTerminal",
       "justMyCode": true
     }
